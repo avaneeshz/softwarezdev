@@ -1,0 +1,140 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+/* title */
+#title {
+  background-color: #e79cc2;
+}
+h4 {
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 2rem;
+  color: #fff;
+  line-height: 1.5;
+  margin-bottom: 70px;
+}
+.container-fluid {
+  padding: 15% 8% 3%;
+}
+.navbar {
+  padding: 1% 3%;
+  background-color: #f6bed6;
+}
+.bton:hover {
+  border-radius: 8px;
+}
+.bton {
+  border-radius: 8px;
+}
+.bton1:hover {
+  background-color: pink;
+  border-radius: 8px;
+}
+.bton1 {
+  border-radius: 8px;
+  margin-right: 5%;
+}
+.navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 2.5rem;
+}
+.nav-item {
+  font-weight: bold;
+  font-size: 18px;
+}
+.navbar {
+  margin-bottom: 20px;
+}
+.ss-img {
+  width: 100%;
+  transform: rotate(5deg);
+}
+.content {
+}
+.text-cont {
+  padding-bottom: 8%;
+}
+.img-cont {
+  text-align: center;
+}
+/* features */
+#features {
+  padding: 7% 15%;
+  background-color: #fff;
+}
+.feature-box {
+  text-align: center;
+  padding: 5% 2%;
+  line-height: 1.5;
+}
+h3 {
+  font-family: "Montserrat-Bold";
+  font-weight: bolder;
+}
+p {
+  color: #8f8f8f;
+}
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.icon:hover {
+  color: #f54291;
+}
+/* testimonial */
+#testimonials {
+  text-align: center;
+  color: #fff;
+  background-color: #e79cc2;
+}
+.carousel-item {
+  padding: 7% 15% 7%;
+}
+h2 {
+  font-family: "Montserrat-Bold";
+  font-weight: bolder;
+  font-size: 4rem;
+  line-height: 1.5;
+}
+.testimonial-img {
+  border-radius: 100%;
+  margin: 20px;
+  width: 10%;
+}
+/* press */
+#press {
+  text-align: center;
+  background-color: #e79cc2;
+  padding-bottom: 3%;
+}
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+/* pricing */
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+.price-col {
+  padding: 3% 2%;
+  text-align: center;
+}
+#footer {
+  background-color: #f6bed6;
+  margin: 0px;
+  padding: 50px 0 20px;
+  text-align: center;
+}
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.7em;
+  padding: 20px 0;
+}
+a {
+  color: #11999e;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: #eaf6f6;
+}
